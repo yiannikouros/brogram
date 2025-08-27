@@ -22,7 +22,7 @@ A modern workout planner web app built with React.
 3. **Open your browser:**
    Visit [http://localhost:3000](http://localhost:3000) to view the app.
 
-   > If this project is hosted online in the future, the live site URL will be added here.
+   > Live site: [https://the-brogram-workout-plan.netlify.app/](https://the-brogram-workout-plan.netlify.app/)
 
 ## Folder Structure
 
